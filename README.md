@@ -1,1 +1,1 @@
-# legalNLP
+# legal case annotations
